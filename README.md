@@ -1,4 +1,25 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=20406877)
-# testingObjects
+public class Dog {
 
-this is an example of a ReadMe file.
+    public static void main 
+
+
+    //data variables,they describe our Dog objects in the computer 
+    public String name;
+    publuc int age;
+    public Strng breed;
+    
+    //default constructor
+    public Dog() {
+      this.name = "Hank"l
+      this.age = 1;
+      this.breed = "Lab";
+      }
+   
+    //non-default constructor
+    public Dog (String name,
+
+    public String toString() {
+        return name + "," + age + "," + bread;
+   
+
+}  //end Dog class
