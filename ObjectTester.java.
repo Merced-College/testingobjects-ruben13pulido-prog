@@ -1,0 +1,17 @@
+public class ObjectTester {
+
+    public static void main (String[] args) {
+       
+       // make a pizza object
+
+       Pizza p1 = new Pizza("Cheese", 6);
+       System.err.println(p1);
+      
+       Pizza p2 = new Pizza("Pepperoni", 8);
+       System.err.println(p2);
+
+      
+
+    }
+
+}
